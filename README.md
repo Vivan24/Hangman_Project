@@ -9,7 +9,7 @@
 
 This program runs the hangman game with **7** lives, where you guess the word letter by letter.
 
-The game also provides you with important information. As a list of examples:
+The game also provides you with important information as you play. Here are a list of examples:
 * How many lives you have remaining
 * The current word (what is guessed and what isn't)
 * Shows all your previous guessed letters
