@@ -5,7 +5,16 @@
 
 #### Quick Summary
 
-This program runs the hangman game although with 7 lives. It allows you to guess the word by using your letters
+This program runs the hangman game with **7** lives. 
+
+It allows you to guess the word letter by letter.
+
+The game also provides you with important information. As a list of examples:
+* How many lives you have remaining
+* The current word (what is guessed and what isn't)
+* Shows all your previous guessed letters
+* Informs you if you guessed the letter before
+* Informs you if your guess not a letter (character not in alphabet, longer than 1 character, or no input)
 
 ## Overview
 
