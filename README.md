@@ -18,9 +18,7 @@ The game also provides you with important information as you play. Here are a li
 
 ## Overview of UI
 
-**Initially** 
-
-When first started, the program should look something like this:
+**Initially** When first started, the program should look something like this:
 
 ![Screenshot 2022-03-17 10 31 58 PM](https://user-images.githubusercontent.com/101522498/158927175-7ee8a053-1d22-46a1-a6ec-d34185f4039e.png)
 
