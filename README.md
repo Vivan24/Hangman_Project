@@ -18,7 +18,7 @@ The game also provides you with important information as you play. Here are a li
 
 ## Overview of UI
 
-**INTRODUCTION:**
+**Initially** 
 
 When first started, the program should look something like this:
 
