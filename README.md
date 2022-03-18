@@ -3,7 +3,7 @@
 * Project made with Python (3.8 in Nix Beta)
 * Ran on Repl.it website--browser based code editor--as seen in screenshots (although not required to use this)
 
-## Quick Summary
+### Quick Summary
 
 This program runs the hangman game although with 7 lives. It allows you to guess the word by using your letters
 
