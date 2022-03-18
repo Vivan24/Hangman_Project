@@ -40,4 +40,4 @@ The game also provides you with important information as you play. Here are a li
 
     When you run out of lives, the game is lost. This is what it looks like:
 
-
+![image](https://user-images.githubusercontent.com/101522498/158929860-dac62b7d-f01f-436b-a395-835faa135633.png)
