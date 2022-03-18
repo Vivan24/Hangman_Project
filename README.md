@@ -16,7 +16,7 @@ The game also provides you with important information. As a list of examples:
 * Informs you if you guessed the letter before
 * Informs you if your guess not a letter (character not in alphabet, longer than 1 character, or no input)
 
-## Overview
+## Overview of UI
 
 **INTRODUCTION:**
 
