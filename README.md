@@ -1,5 +1,7 @@
 # Hangman Project
 
+## Description
+
 * Project made with Python (3.8 in Nix Beta)
 * Ran on Repl.it website--browser based code editor--as seen in screenshots (although not required to use this)
 
