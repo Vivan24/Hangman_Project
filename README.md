@@ -1,12 +1,18 @@
 # Hangman Project
 
-Project made with Python (3.8 in Nix Beta)
-Ran on Repl.it website--browser based code editor--as seen in screenshots (although not required to use this)
+* Project made with Python (3.8 in Nix Beta)
+* Ran on Repl.it website--browser based code editor--as seen in screenshots (although not required to use this)
 
-## Description
+## Quick Summary
+
+This program runs the hangman game although with 7 lives. It allows you to guess the word by using your letters
+
+## Overview
 
 **INTRODUCTION:**
-When first started, the program should look something like this:
+
+    When first started, the program should look something like this:
+
 ![Screenshot 2022-03-17 10 01 07 PM](https://user-images.githubusercontent.com/101522498/158925616-6fcc12f8-3c92-4f60-8ed0-412dc3698aaa.png)
 
 ![Screenshot 2022-03-17 10 07 00 PM](https://user-images.githubusercontent.com/101522498/158925612-786a2c40-a7db-4dee-8003-ec439ded88c0.png)
