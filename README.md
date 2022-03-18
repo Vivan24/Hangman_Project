@@ -36,7 +36,8 @@ The game also provides you with important information as you play. Here are a li
 
 ![Screenshot 2022-03-17 10 03 03 PM](https://user-images.githubusercontent.com/101522498/158925614-e745c1bf-bcda-4c04-97d6-24dc04a5bb2c.png)
 
-****
+**Lossing The Game**
 
+    When you run out of lives, the game is lost. This is what it looks like:
 
 
